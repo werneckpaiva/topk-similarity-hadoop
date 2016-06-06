@@ -1,4 +1,4 @@
 topk-similarity-hadoop
 ======================
 
-Top-k similarity implementation using hadoop
+Top-k similarity implementation using MapReduce
